@@ -1,0 +1,23 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "euromil";
+
+package euromil;
+
+// Definição do serviço EuroMil
+service EuroMil {
+  // Método para registar uma aposta
+  rpc RegisterEuroMil (RegisterRequest) returns (RegisterReply);
+}
+
+// Mensagem de requisição que contém a chave e o ID do cheque digital
+message RegisterRequest {
+  string key = 1;
+  string checkid = 2;
+}
+
+// Mensagem de resposta que contém a mensagem de sucesso ou erro
+message RegisterReply {
+  string message = 1;
+}
+

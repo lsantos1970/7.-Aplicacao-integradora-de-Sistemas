@@ -1,0 +1,49 @@
+C:\Users\luisn\source\repos\ApostaEuromilhoesApp\bin\Debug\net8.0-windows\ApostaEuromilhoesApp.exe
+C:\Users\luisn\source\repos\ApostaEuromilhoesApp\bin\Debug\net8.0-windows\ApostaEuromilhoesApp.deps.json
+C:\Users\luisn\source\repos\ApostaEuromilhoesApp\bin\Debug\net8.0-windows\ApostaEuromilhoesApp.runtimeconfig.json
+C:\Users\luisn\source\repos\ApostaEuromilhoesApp\bin\Debug\net8.0-windows\ApostaEuromilhoesApp.dll
+C:\Users\luisn\source\repos\ApostaEuromilhoesApp\bin\Debug\net8.0-windows\ApostaEuromilhoesApp.pdb
+C:\Users\luisn\source\repos\ApostaEuromilhoesApp\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\luisn\source\repos\ApostaEuromilhoesApp\bin\Debug\net8.0-windows\Grpc.Core.Api.dll
+C:\Users\luisn\source\repos\ApostaEuromilhoesApp\bin\Debug\net8.0-windows\Grpc.Net.Client.dll
+C:\Users\luisn\source\repos\ApostaEuromilhoesApp\bin\Debug\net8.0-windows\Grpc.Net.Common.dll
+C:\Users\luisn\source\repos\ApostaEuromilhoesApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\luisn\source\repos\ApostaEuromilhoesApp\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\luisn\source\repos\ApostaEuromilhoesApp\obj\Debug\net8.0-windows\ApostaEuromilhoesApp.csproj.AssemblyReference.cache
+C:\Users\luisn\source\repos\ApostaEuromilhoesApp\obj\Debug\net8.0-windows\Form1.resources
+C:\Users\luisn\source\repos\ApostaEuromilhoesApp\obj\Debug\net8.0-windows\ApostaEuromilhoesApp.csproj.GenerateResource.cache
+C:\Users\luisn\source\repos\ApostaEuromilhoesApp\obj\Debug\net8.0-windows\ApostaEuromilhoesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisn\source\repos\ApostaEuromilhoesApp\obj\Debug\net8.0-windows\ApostaEuromilhoesApp.AssemblyInfoInputs.cache
+C:\Users\luisn\source\repos\ApostaEuromilhoesApp\obj\Debug\net8.0-windows\ApostaEuromilhoesApp.AssemblyInfo.cs
+C:\Users\luisn\source\repos\ApostaEuromilhoesApp\obj\Debug\net8.0-windows\ApostaEuromilhoesApp.csproj.CoreCompileInputs.cache
+C:\Users\luisn\source\repos\ApostaEuromilhoesApp\obj\Debug\net8.0-windows\ApostaEuromilhoesApp.sourcelink.json
+C:\Users\luisn\source\repos\ApostaEuromilhoesApp\obj\Debug\net8.0-windows\ApostaEu.0FF1230D.Up2Date
+C:\Users\luisn\source\repos\ApostaEuromilhoesApp\obj\Debug\net8.0-windows\ApostaEuromilhoesApp.dll
+C:\Users\luisn\source\repos\ApostaEuromilhoesApp\obj\Debug\net8.0-windows\refint\ApostaEuromilhoesApp.dll
+C:\Users\luisn\source\repos\ApostaEuromilhoesApp\obj\Debug\net8.0-windows\ApostaEuromilhoesApp.pdb
+C:\Users\luisn\source\repos\ApostaEuromilhoesApp\obj\Debug\net8.0-windows\ApostaEuromilhoesApp.genruntimeconfig.cache
+C:\Users\luisn\source\repos\ApostaEuromilhoesApp\obj\Debug\net8.0-windows\ref\ApostaEuromilhoesApp.dll
+C:\Users\luisn\OneDrive - Universidade Aberta\Mestrado\1º Ano - 1º Semestre\22295_24_01 - Integração de Sistemas\7. Aplicação integradora de Sistemas\bin\Debug\net8.0-windows\ApostaEuromilhoesApp.exe
+C:\Users\luisn\OneDrive - Universidade Aberta\Mestrado\1º Ano - 1º Semestre\22295_24_01 - Integração de Sistemas\7. Aplicação integradora de Sistemas\bin\Debug\net8.0-windows\ApostaEuromilhoesApp.deps.json
+C:\Users\luisn\OneDrive - Universidade Aberta\Mestrado\1º Ano - 1º Semestre\22295_24_01 - Integração de Sistemas\7. Aplicação integradora de Sistemas\bin\Debug\net8.0-windows\ApostaEuromilhoesApp.runtimeconfig.json
+C:\Users\luisn\OneDrive - Universidade Aberta\Mestrado\1º Ano - 1º Semestre\22295_24_01 - Integração de Sistemas\7. Aplicação integradora de Sistemas\bin\Debug\net8.0-windows\ApostaEuromilhoesApp.dll
+C:\Users\luisn\OneDrive - Universidade Aberta\Mestrado\1º Ano - 1º Semestre\22295_24_01 - Integração de Sistemas\7. Aplicação integradora de Sistemas\bin\Debug\net8.0-windows\ApostaEuromilhoesApp.pdb
+C:\Users\luisn\OneDrive - Universidade Aberta\Mestrado\1º Ano - 1º Semestre\22295_24_01 - Integração de Sistemas\7. Aplicação integradora de Sistemas\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\luisn\OneDrive - Universidade Aberta\Mestrado\1º Ano - 1º Semestre\22295_24_01 - Integração de Sistemas\7. Aplicação integradora de Sistemas\bin\Debug\net8.0-windows\Grpc.Core.Api.dll
+C:\Users\luisn\OneDrive - Universidade Aberta\Mestrado\1º Ano - 1º Semestre\22295_24_01 - Integração de Sistemas\7. Aplicação integradora de Sistemas\bin\Debug\net8.0-windows\Grpc.Net.Client.dll
+C:\Users\luisn\OneDrive - Universidade Aberta\Mestrado\1º Ano - 1º Semestre\22295_24_01 - Integração de Sistemas\7. Aplicação integradora de Sistemas\bin\Debug\net8.0-windows\Grpc.Net.Common.dll
+C:\Users\luisn\OneDrive - Universidade Aberta\Mestrado\1º Ano - 1º Semestre\22295_24_01 - Integração de Sistemas\7. Aplicação integradora de Sistemas\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\luisn\OneDrive - Universidade Aberta\Mestrado\1º Ano - 1º Semestre\22295_24_01 - Integração de Sistemas\7. Aplicação integradora de Sistemas\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\luisn\OneDrive - Universidade Aberta\Mestrado\1º Ano - 1º Semestre\22295_24_01 - Integração de Sistemas\7. Aplicação integradora de Sistemas\obj\Debug\net8.0-windows\ApostaEuromilhoesApp.csproj.AssemblyReference.cache
+C:\Users\luisn\OneDrive - Universidade Aberta\Mestrado\1º Ano - 1º Semestre\22295_24_01 - Integração de Sistemas\7. Aplicação integradora de Sistemas\obj\Debug\net8.0-windows\Form1.resources
+C:\Users\luisn\OneDrive - Universidade Aberta\Mestrado\1º Ano - 1º Semestre\22295_24_01 - Integração de Sistemas\7. Aplicação integradora de Sistemas\obj\Debug\net8.0-windows\ApostaEuromilhoesApp.csproj.GenerateResource.cache
+C:\Users\luisn\OneDrive - Universidade Aberta\Mestrado\1º Ano - 1º Semestre\22295_24_01 - Integração de Sistemas\7. Aplicação integradora de Sistemas\obj\Debug\net8.0-windows\ApostaEuromilhoesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisn\OneDrive - Universidade Aberta\Mestrado\1º Ano - 1º Semestre\22295_24_01 - Integração de Sistemas\7. Aplicação integradora de Sistemas\obj\Debug\net8.0-windows\ApostaEuromilhoesApp.AssemblyInfoInputs.cache
+C:\Users\luisn\OneDrive - Universidade Aberta\Mestrado\1º Ano - 1º Semestre\22295_24_01 - Integração de Sistemas\7. Aplicação integradora de Sistemas\obj\Debug\net8.0-windows\ApostaEuromilhoesApp.AssemblyInfo.cs
+C:\Users\luisn\OneDrive - Universidade Aberta\Mestrado\1º Ano - 1º Semestre\22295_24_01 - Integração de Sistemas\7. Aplicação integradora de Sistemas\obj\Debug\net8.0-windows\ApostaEuromilhoesApp.csproj.CoreCompileInputs.cache
+C:\Users\luisn\OneDrive - Universidade Aberta\Mestrado\1º Ano - 1º Semestre\22295_24_01 - Integração de Sistemas\7. Aplicação integradora de Sistemas\obj\Debug\net8.0-windows\ApostaEu.0FF1230D.Up2Date
+C:\Users\luisn\OneDrive - Universidade Aberta\Mestrado\1º Ano - 1º Semestre\22295_24_01 - Integração de Sistemas\7. Aplicação integradora de Sistemas\obj\Debug\net8.0-windows\ApostaEuromilhoesApp.dll
+C:\Users\luisn\OneDrive - Universidade Aberta\Mestrado\1º Ano - 1º Semestre\22295_24_01 - Integração de Sistemas\7. Aplicação integradora de Sistemas\obj\Debug\net8.0-windows\refint\ApostaEuromilhoesApp.dll
+C:\Users\luisn\OneDrive - Universidade Aberta\Mestrado\1º Ano - 1º Semestre\22295_24_01 - Integração de Sistemas\7. Aplicação integradora de Sistemas\obj\Debug\net8.0-windows\ApostaEuromilhoesApp.pdb
+C:\Users\luisn\OneDrive - Universidade Aberta\Mestrado\1º Ano - 1º Semestre\22295_24_01 - Integração de Sistemas\7. Aplicação integradora de Sistemas\obj\Debug\net8.0-windows\ApostaEuromilhoesApp.genruntimeconfig.cache
+C:\Users\luisn\OneDrive - Universidade Aberta\Mestrado\1º Ano - 1º Semestre\22295_24_01 - Integração de Sistemas\7. Aplicação integradora de Sistemas\obj\Debug\net8.0-windows\ref\ApostaEuromilhoesApp.dll

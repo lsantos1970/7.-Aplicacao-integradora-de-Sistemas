@@ -1,0 +1,2 @@
+obj\Debug\net8.0-windows/EuroMilRegister.cs \
+obj\Debug\net8.0-windows/EuroMilRegisterGrpc.cs: euroMilRegister.proto
